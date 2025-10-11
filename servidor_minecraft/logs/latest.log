@@ -1,0 +1,625 @@
+[11Oct2025 00:04:08.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT lost connection: Disconnected
+[11Oct2025 00:04:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT left the game
+[11Oct2025 00:04:30.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIAMONTCAT[/127.96.137.235:59549] logged in with entity id 49887 at (-134.78638549331947, 102.0, -801.7720951711244)
+[11Oct2025 00:04:30.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT joined the game
+[11Oct2025 00:05:38.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx lost connection: Disconnected
+[11Oct2025 00:05:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx left the game
+[11Oct2025 00:06:31.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elbenjixx[/127.159.133.76:47671] logged in with entity id 50929 at (-261.3264454938014, 94.0, -868.9708808793248)
+[11Oct2025 00:06:31.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx joined the game
+[11Oct2025 00:08:37.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx lost connection: Disconnected
+[11Oct2025 00:08:37.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx left the game
+[11Oct2025 00:15:10.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elbenjixx[/127.159.133.76:36339] logged in with entity id 54556 at (-213.4088958439203, 94.0, -861.5198829574615)
+[11Oct2025 00:15:10.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx joined the game
+[11Oct2025 00:15:24.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx lost connection: Disconnected
+[11Oct2025 00:15:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx left the game
+[11Oct2025 00:16:53.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gamer777_lol[/127.73.11.94:40881] logged in with entity id 54993 at (-202.00472139806607, 92.0, -844.5770053203953)
+[11Oct2025 00:16:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol joined the game
+[11Oct2025 00:17:17.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iuseimpact[/127.116.1.194:40715] logged in with entity id 55154 at (-197.30000001192093, 115.0, -870.6999999880791)
+[11Oct2025 00:17:17.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact joined the game
+[11Oct2025 00:20:26.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact has made the advancement [Into Fire]
+[11Oct2025 00:20:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol has made the advancement [Into Fire]
+[11Oct2025 00:20:54.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elbenjixx[/127.159.133.76:40405] logged in with entity id 56400 at (-217.00479753006255, 91.0, -852.0445213065656)
+[11Oct2025 00:20:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx joined the game
+[11Oct2025 00:32:55.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT lost connection: Disconnected
+[11Oct2025 00:32:55.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT left the game
+[11Oct2025 00:33:30.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIAMONTCAT[/127.34.165.147:56871] logged in with entity id 63104 at (-235.04616607658346, 91.0, -843.2625501893432)
+[11Oct2025 00:33:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT joined the game
+[11Oct2025 00:35:27.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 00:36:44.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx lost connection: Disconnected
+[11Oct2025 00:36:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx left the game
+[11Oct2025 00:36:49.790] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a2da3d5[id=<null>,name=ThiagitoJuegos,properties={},legacy=false] (/127.96.137.235:53365) lost connection: Disconnected
+[11Oct2025 00:37:23.796] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@394773a2[id=<null>,name=ThiagitoJuegos,properties={},legacy=false] (/127.96.137.235:42653) lost connection: Disconnected
+[11Oct2025 00:37:55.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.0929470106800636,1.3498381803459694,-10.461308819387341
+[11Oct2025 00:37:55.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.2350994659309436,1.5608926973348503,-11.92945231474414
+[11Oct2025 00:37:55.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.3760505492085713,1.7761809865443752,-13.391229962274792
+[11Oct2025 00:37:55.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.5163258183937387,1.99564382985659,-14.846729353054798
+[11Oct2025 00:37:55.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.6563734864967046,2.219235481443789,-16.296040793994507
+[11Oct2025 00:37:55.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.7965715330192324,2.446921541817062,-17.739255712524482
+[11Oct2025 00:37:55.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 0.9882534390648061,1.5355849682340192,-10.189750958674722
+[11Oct2025 00:37:55.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.1296425560923353,1.771393771467018,-11.621049792062877
+[11Oct2025 00:37:55.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.2719672619584799,2.01124572138049,-13.046528597094039
+[11Oct2025 00:37:55.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.4153942224496632,2.255136409504118,-14.46627807189725
+[11Oct2025 00:37:55.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.560051892730712,2.503066013609498,-15.880388144527387
+[11Oct2025 00:37:55.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.7060348381018002,2.755038360020862,-17.288947593514877
+[11Oct2025 00:38:00.078] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76f23a62[id=<null>,name=ThiagitoJuegos,properties={},legacy=false] (/127.96.137.235:43177) lost connection: Disconnected
+[11Oct2025 00:38:10.901] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[11Oct2025 00:39:07.068] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[11Oct2025 00:39:07.069] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[11Oct2025 00:39:07.069] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[11Oct2025 00:39:07.070] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[11Oct2025 00:39:07.070] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[11Oct2025 00:39:07.076] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[11Oct2025 00:39:07.076] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[11Oct2025 00:39:07.076] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[11Oct2025 00:39:07.076] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[11Oct2025 00:39:07.077] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[11Oct2025 00:39:07.077] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[11Oct2025 00:39:07.096] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[11Oct2025 00:39:07.097] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[11Oct2025 00:39:24.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 0.9247408508504122,0.26051341650487814,-11.38008773064439
+[11Oct2025 00:39:24.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 1.1584415190185382,0.2838843855801656,-12.803638238158783
+[11Oct2025 00:39:36.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11Oct2025 00:39:58.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7227ms or 144 ticks behind
+[11Oct2025 00:40:38.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagitoJuegos[/127.96.137.235:55333] logged in with entity id 74988 at (-43.5, 91.0, -17.5)
+[11Oct2025 00:40:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos joined the game
+[11Oct2025 00:40:38.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [ThiagitoJuegos] Tip: You can hit the "F3" and "D" keys at the same time to clear all prior chat messages
+[11Oct2025 00:40:38.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Ice and Fire]
+[11Oct2025 00:41:04.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 00:41:40.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=91, z=-26}
+[11Oct2025 00:41:40.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=90, z=-26}
+[11Oct2025 00:41:44.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=92, z=-26}
+[11Oct2025 00:41:44.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=91, z=-26}
+[11Oct2025 00:41:57.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.3710556779188394,-0.5980272018492769,10.627915298050304
+[11Oct2025 00:41:57.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.7897913778110421,-0.6627357187672374,11.600939524654706
+[11Oct2025 00:41:57.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -1.2706483835701121,-0.7454911018335793,12.53923060204351
+[11Oct2025 00:41:57.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -1.8107100431357708,-0.8504385058359958,13.438653007781372
+[11Oct2025 00:41:57.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -2.4069231319997186,-0.9798982458665364,14.295434201303635
+[11Oct2025 00:41:57.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -3.056131523828931,-1.1348708709171262,15.106144544267078
+[11Oct2025 00:41:57.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -3.7551012484444684,-1.3154221431020972,15.867671138067308
+[11Oct2025 00:41:57.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -4.50053436846688,-1.520973647066043,16.577186619449122
+[11Oct2025 00:41:57.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -5.289072572105489,-1.7505198346321436,17.232118727630475
+[11Oct2025 00:41:57.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -6.1172942609093965,-2.0027884514024805,17.830124486730412
+[11Oct2025 00:41:57.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -6.964697941516583,-1.72979098220749,8.744622555216408
+[11Oct2025 00:41:57.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -7.8617274679620905,-2.023170403245018,9.222565785081747
+[11Oct2025 00:41:57.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -8.787861370135502,-2.3344525862408716,9.637766699065114
+[11Oct2025 00:41:57.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -9.740161057181048,-2.6602596596322883,9.988697864068122
+[11Oct2025 00:41:57.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -10.716015809584846,-2.996239444267758,10.273900494005272
+[11Oct2025 00:41:57.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -11.712896208773493,-3.3374166258459326,10.491905412096337
+[11Oct2025 00:41:57.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -12.728004181209101,-3.678862448004324,10.641240668566795
+[11Oct2025 00:41:57.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -13.757668238159184,-4.0170501378431,10.720574858920603
+[11Oct2025 00:41:57.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -14.79756028226845,-4.349535376918411,10.728829441770404
+[11Oct2025 00:41:57.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -15.842879550031014,-4.6747028891933695,10.665254719256314
+[11Oct2025 00:41:57.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -16.888504866369452,-4.991565186750819,10.529478056650861
+[11Oct2025 00:41:57.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -17.929119529702007,-5.299603469758367,10.321531231319597
+[11Oct2025 00:41:57.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -18.959312142271287,-5.5986422654984835,10.041862643502089
+[11Oct2025 00:41:57.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -19.973659936142205,-5.888751656070937,9.691339924295571
+[11Oct2025 00:41:57.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -20.966795591798125,-6.170171428784414,9.27124367143195
+[11Oct2025 00:41:57.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -21.933462513487946,-6.443253022959269,8.783255475407222
+[11Oct2025 00:41:57.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -22.868560052535997,-6.708415443928189,8.229442317939409
+[11Oct2025 00:41:57.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -23.767181157915736,-6.966112301848014,7.61223826412964
+[11Oct2025 00:41:57.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -24.62464467050753,-7.216807766917313,6.934423669120843
+[11Oct2025 00:41:57.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.436521128747366,-7.460959154071304,6.199102956457896
+[11Oct2025 00:41:57.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.198655304600024,-7.6990049325834775,5.409681037134359
+[11Oct2025 00:41:57.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.907184910732198,-7.931356714376108,4.569839131066686
+[11Oct2025 00:41:57.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.558557105649072,-8.158394299485664,3.683510478674389
+[11Oct2025 00:41:57.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -28.14954171158903,-8.380463037447967,2.754854999373805
+[11Oct2025 00:41:57.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -28.677242123613873,-8.597872865472198,1.7882339081086123
+[11Oct2025 00:41:57.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.139104236869578,-8.8108986185578,0.7881837761473598
+[11Oct2025 00:41:57.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.532923994618677,-9.019781122083543,-0.24060891688974806
+[11Oct2025 00:41:57.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.85685290923515,-9.224728816501056,-1.293333057919014
+[11Oct2025 00:41:57.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.10940000745338,-9.425919840835448,-2.3650788379030914
+[11Oct2025 00:41:57.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.289436468577485,-9.623504187198265,-3.450862587258989
+[11Oct2025 00:41:57.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.39619553463732,-9.817606030386386,-4.545652098176749
+[11Oct2025 00:41:57.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.429271098689405,-10.00832611434511,-5.644391942174771
+[11Oct2025 00:41:57.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.388615349200172,-10.1957438548488,-6.742027066467241
+[11Oct2025 00:41:57.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.27453567987245,-10.379919608587713,-7.833527854384759
+[11Oct2025 00:41:57.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.08765991076846,-10.560463096577422,-8.913966180614409
+[11Oct2025 00:41:57.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.828820874962098,-10.735307288523202,-9.978712386313717
+[11Oct2025 00:41:57.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.499150139930897,-10.90169211592736,-11.023202777741162
+[11Oct2025 00:41:57.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.100261570205113,-11.057812475309532,-12.042698888536698
+[11Oct2025 00:41:57.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -28.634223187548976,-11.202583440971154,-13.032431203086837
+[11Oct2025 00:41:57.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -28.10352247017571,-11.335455242114165,-13.98771060740961
+[11Oct2025 00:41:57.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.511027482945394,-11.45626836986547,-14.904012286267417
+[11Oct2025 00:41:57.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.859946734859577,-11.565141025870616,-15.777038879405453
+[11Oct2025 00:41:57.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.153790534879057,-11.662382371569251,-16.60276581265979
+[11Oct2025 00:41:57.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.396333472928227,-11.748426439115363,-17.37747435318461
+[11Oct2025 00:41:57.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -24.5915776079851,-11.823782407349029,-18.097775132969666
+[11Oct2025 00:41:57.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -23.743718495618857,-11.88899765790751,-18.76062255066097
+[11Oct2025 00:41:57.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -22.857112819505076,-11.944630897500176,-19.36332489036249
+[11Oct2025 00:41:57.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -21.93624759629798,-11.991233035686122,-19.903548708186662
+[11Oct2025 00:41:57.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -20.98571139369355,-12.029334033500533,-20.379320971566784
+[11Oct2025 00:41:57.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -20.01017624106047,-12.059434309937416,-20.78902668337242
+[11Oct2025 00:41:57.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -19.014365162080857,-12.081999636045992,-21.131407822786045
+[11Oct2025 00:41:57.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -18.003016762585908,-12.097458361032778,-21.405559389838224
+[11Oct2025 00:41:57.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -16.98086247284332,-12.10620045985695,-21.61092105458235
+[11Oct2025 00:41:57.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -15.952606733363432,-12.108577938165425,-21.74726862981722
+[11Oct2025 00:41:57.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -14.922905837629926,-12.104906116191856,-21.81470490399881
+[11Oct2025 00:41:57.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -13.89635010981307,-12.0954655630443,-21.81364880867791
+[11Oct2025 00:41:57.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -12.87744540351187,-12.080504368548006,-21.744824901062977
+[11Oct2025 00:41:57.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -11.870595721408243,-12.060240608779296,-21.60925188864475
+[11Oct2025 00:41:57.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -10.880087811614665,-12.03486491339332,-21.408230303692555
+[11Oct2025 00:41:57.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -9.910075296541223,-12.004542985381548,-21.14333085652892
+[11Oct2025 00:41:57.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -8.964564697184052,-11.96941804687141,-20.816380894178266
+[11Oct2025 00:41:57.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -8.04740223000345,-11.929613163776907,-20.429450828325805
+[11Oct2025 00:41:57.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -7.162260665720282,-11.885233403535153,-19.984840952803786
+[11Oct2025 00:41:57.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -6.312627990974995,-11.836367863027405,-19.485067331230418
+[11Oct2025 00:41:57.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -5.501796458232043,-11.783091491685525,-18.932847072524595
+[11Oct2025 00:41:57.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -4.732834968586637,-11.725903304682205,-18.33105634268744
+[11Oct2025 00:41:57.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -4.008547216011458,-11.666728602140765,-17.68265477977507
+[11Oct2025 00:41:57.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -3.3314797527748823,-11.608415674965471,-16.99065704336264
+[11Oct2025 00:41:57.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -2.7039482182410595,-11.554367105916143,-16.258132760765193
+[11Oct2025 00:41:57.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -2.12806176858998,-11.50827528738067,-15.48822028115434
+[11Oct2025 00:41:57.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -1.6057286329318856,-11.473938059489342,-14.684110786726357
+[11Oct2025 00:41:57.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -1.138664065045603,-11.455139262672262,-13.849036226711334
+[11Oct2025 00:41:57.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.7284295944792518,-11.455567594850606,-12.986417598718987
+[11Oct2025 00:41:57.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.3764105838537404,-11.478327583158858,-12.099847728715147
+[11Oct2025 00:41:57.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.08378129670467871,-11.52491643206244,-11.1929274499742
+[11Oct2025 00:41:57.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.14848492839185212,-11.595680254076854,-10.269230086147658
+[11Oct2025 00:41:57.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.31959945501708376,-11.690160164783848,-9.332286381780264
+[11Oct2025 00:41:57.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.428942633993465,-11.807352245505456,-8.385585898146715
+[11Oct2025 00:41:57.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.47605170962587806,-11.945900641678236,-7.432588593394943
+[11Oct2025 00:41:57.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.46061408497305933,-12.1042391796218,-6.476741231332795
+[11Oct2025 00:41:57.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.38246651136920207,-12.280693715946256,-5.521494529852319
+[11Oct2025 00:41:57.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.2415992748291913,-12.473554875998275,-4.570318203180534
+[11Oct2025 00:41:57.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! 0.038165834746358485,-12.681128454834564,-3.6267121854568067
+[11Oct2025 00:41:57.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.22756819819468177,-12.901346791144348,-2.6941178747443253
+[11Oct2025 00:41:57.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.5554198287002095,-13.130736722554659,-1.7756387345900357
+[11Oct2025 00:41:57.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -0.9452192845631586,-13.364875450385782,-0.8742651977912317
+[11Oct2025 00:41:57.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -1.3966974539307557,-13.598724785211715,0.00693665424793366
+[11Oct2025 00:41:57.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -1.9092873990472512,-13.82731259329151,0.8646364533834792
+[11Oct2025 00:41:57.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -2.481794187286681,-14.047062471514451,1.695022361307064
+[11Oct2025 00:41:57.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -3.1124482825092414,-14.255485887364102,2.4940217681090573
+[11Oct2025 00:41:57.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -3.7989648361253714,-14.450934970627074,3.2574749743114104
+[11Oct2025 00:41:57.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -4.53860457774983,-14.632404530856107,3.981269628094797
+[11Oct2025 00:41:58.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -5.328233378951815,-14.799374182042868,4.66144251656166
+[11Oct2025 00:41:58.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -6.164377532230098,-14.951683057090719,5.294253387883185
+[11Oct2025 00:41:58.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -7.043275607952488,-15.089431396126074,5.876239791014633
+[11Oct2025 00:41:58.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -7.960925891630666,-15.212903742262228,6.404254758981569
+[11Oct2025 00:41:58.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -8.913129186795288,-15.322509626974636,6.875493638771069
+[11Oct2025 00:41:58.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -9.895528888598626,-15.41873830777979,7.287510393364428
+[11Oct2025 00:41:58.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -10.903647775415891,-15.502124663585207,7.638226881271098
+[11Oct2025 00:41:58.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -11.93292141634933,-15.57322389787916,7.925936846872393
+[11Oct2025 00:41:58.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -12.978729348652685,-15.632593171661043,8.149305580609857
+[11Oct2025 00:41:58.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -14.036424376849489,-15.680778621772205,8.307366818939602
+[11Oct2025 00:41:58.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -15.10133336156862,-15.718306669126733,8.399520574031158
+[11Oct2025 00:41:58.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -16.168816016008968,-15.745678529447062,8.42552252261266
+[11Oct2025 00:41:58.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -17.2342969920879,-15.763366589319503,8.385470913695888
+[11Oct2025 00:41:58.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -18.293284015259886,-15.771812623260288,8.279793398249074
+[11Oct2025 00:41:58.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -19.341386308342834,-15.771427326116381,8.109233043409974
+[11Oct2025 00:41:58.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -20.374330477983086,-15.762590845370156,7.874834138790309
+[11Oct2025 00:41:58.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -21.38797682925197,-15.745653913637454,7.577926748837305
+[11Oct2025 00:41:58.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -22.378332957329796,-15.72093948236369,7.220111870857194
+[11Oct2025 00:41:58.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -23.341587169884797,-15.689181520856607,6.803228405885985
+[11Oct2025 00:41:58.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -24.2741747860305,-15.652622709924017,6.329284859950789
+[11Oct2025 00:41:58.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.172775152894857,-15.614042889086917,5.800429936043308
+[11Oct2025 00:41:58.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.034272756658368,-15.575279606463141,5.218958482014685
+[11Oct2025 00:41:58.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.85573831677219,-15.537469465344785,4.587309974672522
+[11Oct2025 00:41:58.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.634417950126185,-15.50123375036219,3.908068364211605
+[11Oct2025 00:41:58.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -28.367727602093687,-15.466820701473324,3.1839600680650406
+[11Oct2025 00:41:58.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.05325124480772,-15.434214129362871,2.4178520569816655
+[11Oct2025 00:41:58.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -29.688743142662993,-15.403215858971109,1.6127494235804498
+[11Oct2025 00:41:58.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.272132979014778,-15.373507847188748,0.771790131979607
+[11Oct2025 00:41:58.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -30.801532459286086,-15.344698622350194,-0.1017609647578901
+[11Oct2025 00:41:58.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -31.275243781881194,-15.316357598954667,-1.0045203373942293
+[11Oct2025 00:41:59.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -31.691766474705297,-15.287602585261425,-1.932981505357052
+[11Oct2025 00:41:59.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -32.049803770153524,-15.256058155562883,-2.8834700308409182
+[11Oct2025 00:41:59.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -32.3482794061834,-15.218385252107083,-3.8520507355191853
+[11Oct2025 00:41:59.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -32.5863788434089,-15.171121845811982,-4.83450306180309
+[11Oct2025 00:41:59.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -32.763594122413004,-15.11203171205014,-5.8264384820423345
+[11Oct2025 00:41:59.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -32.879742680714834,-15.039801858206829,-6.823419840225654
+[11Oct2025 00:41:59.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -32.93496717054379,-14.95380325480366,-7.821047833244371
+[11Oct2025 00:42:14.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 00:42:39.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=91, z=-848} BlockPos{x=-46, y=90, z=-26}
+[11Oct2025 00:43:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact has made the advancement [We Need to Go Deeper]
+[11Oct2025 00:43:02.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 6.839811320052718,-3.6862775251828452,-7.292689767295997
+[11Oct2025 00:43:02.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 7.283007895330002,-4.0350682017138695,-7.734089332325311
+[11Oct2025 00:43:02.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 7.728768537277119,-4.391795801475666,-8.171327258836754
+[11Oct2025 00:43:02.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 8.178058246238834,-4.754245770865296,-8.60502273414204
+[11Oct2025 00:43:02.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 8.631916885657802,-5.119386777740175,-9.036120333503277
+[11Oct2025 00:43:02.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! 9.091353396785394,-5.483637831836489,-9.465707830952852
+[11Oct2025 00:43:06.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 00:43:07.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=91, z=-848} BlockPos{x=-46, y=91, z=-26}
+[11Oct2025 00:51:12.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11Oct2025 00:51:16.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol using [Fuma Porros 3000]
+[11Oct2025 00:51:16.299] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 49d1e274-6110-428c-aa5c-a205fe1c65cb
+[11Oct2025 00:51:34.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7328ms or 146 ticks behind
+[11Oct2025 00:52:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 00:52:13.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 00:52:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 00:52:34.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 00:55:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol
+[11Oct2025 00:55:01.353] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 7c2d1a19-07e8-49bc-8fdf-4921a4842a7d
+[11Oct2025 00:58:28.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 00:58:46.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT lost connection: Disconnected
+[11Oct2025 00:58:46.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT left the game
+[11Oct2025 00:59:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Sweet Dreams]
+[11Oct2025 00:59:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol
+[11Oct2025 00:59:16.332] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 66afe192-90ae-4b9c-87c9-de5de292cdc3
+[11Oct2025 00:59:24.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol
+[11Oct2025 00:59:24.084] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is c655de68-826b-46f1-bdd2-1fdcf13b463a
+[11Oct2025 00:59:36.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 00:59:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol using [Fuma Porros 3000]
+[11Oct2025 00:59:38.385] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is a1a0215b-b9fd-4b74-bcfe-cd59d44bc1a8
+[11Oct2025 00:59:45.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol
+[11Oct2025 00:59:45.738] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 490a0c0a-a916-49cb-a9b2-f2d677c660b4
+[11Oct2025 00:59:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by gamer777_lol
+[11Oct2025 00:59:51.789] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 4e6430a3-cda0-400b-accc-70e124d0944a
+[11Oct2025 01:00:09.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by iuseimpact using [El Detonador de Abuelas]
+[11Oct2025 01:00:09.430] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 67f1b834-b354-401e-ae77-4da5cd04f91b
+[11Oct2025 01:00:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by iuseimpact using [El Detonador de Abuelas]
+[11Oct2025 01:00:19.165] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 8d6d6065-4396-4eb3-a0b9-ed9f5e120cd9
+[11Oct2025 01:00:35.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [We Need to Go Deeper]
+[11Oct2025 01:01:00.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was shot by iuseimpact
+[11Oct2025 01:01:00.337] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 62faaca2-f828-4580-a8e9-ef21c9404682
+[11Oct2025 01:01:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Cover Me with Diamonds]
+[11Oct2025 01:02:09.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Diamonds!]
+[11Oct2025 01:02:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was shot by iuseimpact
+[11Oct2025 01:02:30.058] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is fcb1c5d2-c376-4a11-a837-79443cedf8dd
+[11Oct2025 01:03:06.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Monster Hunter]
+[11Oct2025 01:05:55.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact has made the advancement [Surge Protector]
+[11Oct2025 01:05:55.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol has made the advancement [Surge Protector]
+[11Oct2025 01:05:55.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Surge Protector]
+[11Oct2025 01:06:49.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol lost connection: Disconnected
+[11Oct2025 01:06:49.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol left the game
+[11Oct2025 01:06:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:07:03.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:07:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:07:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:07:31.980] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41147bac[id=<null>,name=gamer777_lol,properties={},legacy=false] (/127.73.11.94:36215) lost connection: Disconnected
+[11Oct2025 01:07:40.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gamer777_lol[/127.73.11.94:38433] logged in with entity id 98394 at (-210.81074169747876, 91.0, -837.3830289734764)
+[11Oct2025 01:07:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol joined the game
+[11Oct2025 01:10:26.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elbenjixx[/127.159.133.76:45375] logged in with entity id 99368 at (-254.30000001192093, 91.0, -849.6999999880791)
+[11Oct2025 01:10:26.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx joined the game
+[11Oct2025 01:12:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Stone Age]
+[11Oct2025 01:12:53.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:12:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Getting an Upgrade]
+[11Oct2025 01:15:21.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:16:55.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:17:08.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:17:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:17:16.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Spectator Mode]
+[11Oct2025 01:17:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:17:46.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! 2.88211429858643,3.6380625208548736,-8.978117162351055
+[11Oct2025 01:17:48.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! 2.502419154027848,4.2402002637137315,-9.28064178044815
+[11Oct2025 01:17:48.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! 2.7741287514618307,4.717029867188913,-10.309957056699432
+[11Oct2025 01:17:48.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! 3.044553152403523,5.195022986037515,-11.33889511676648
+[11Oct2025 01:18:25.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Spectator Mode]
+[11Oct2025 01:18:26.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:18:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:18:46.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -0.3375464612306587,0.9346945409939735,-10.315346261729701
+[11Oct2025 01:18:46.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -0.3731039891281398,1.043611835172186,-11.61267560686315
+[11Oct2025 01:18:48.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -1.8144714346092314,0.12933893810350128,-10.874383355114787
+[11Oct2025 01:18:48.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -2.0841025543588785,0.13421817235644085,-12.235669093586466
+[11Oct2025 01:20:18.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -10.657362692622542,0.7615510200945721,-1.1756047464216408
+[11Oct2025 01:20:27.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:20:38.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx has made the advancement [Rotten to the Core]
+[11Oct2025 01:20:51.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved wrongly! 0.6708568329922855
+[11Oct2025 01:21:03.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Acquire Hardware]
+[11Oct2025 01:21:52.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 01:22:04.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:22:17.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:22:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol was doomed to fall by Cyclops
+[11Oct2025 01:22:24.352] [Server thread/INFO] [gravestone/]: The death ID of player gamer777_lol is 915670cf-4681-482e-b745-29f758fc40f7
+[11Oct2025 01:23:55.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 01:23:59.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:24:00.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:24:20.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 01:24:24.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:24:27.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Isn't It Iron Pick]
+[11Oct2025 01:24:29.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:25:15.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:26:55.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:26:59.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:27:00.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:27:31.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos has made the advancement [Sneak 100]
+[11Oct2025 01:28:29.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:30:40.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 01:30:48.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:30:54.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIAMONTCAT[/127.96.137.235:40733] logged in with entity id 125602 at (-232.69999998807907, 15.0, -4551.300000011921)
+[11Oct2025 01:30:54.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT joined the game
+[11Oct2025 01:31:07.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:31:52.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:35:15.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:36:13.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:36:35.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[11Oct2025 01:37:03.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12940ms or 258 ticks behind
+[11Oct2025 01:37:22.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[11Oct2025 01:37:40.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[11Oct2025 01:41:27.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagitoJuegos lost connection: Disconnected
+[11Oct2025 01:41:27.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos left the game
+[11Oct2025 01:42:15.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagitoJuegos[/127.96.137.235:52573] logged in with entity id 144495 at (-245.36412009933812, 92.0, -846.5238828385752)
+[11Oct2025 01:42:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos joined the game
+[11Oct2025 01:42:31.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 01:42:41.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:42:46.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=96, z=-1191} BlockPos{x=-192, y=95, z=-1191}
+[11Oct2025 01:42:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:42:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:43:07.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:43:31.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:44:06.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -9.518617393290214,-0.6108434989447176,6.025757405749232
+[11Oct2025 01:44:06.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -10.840634976379846,-0.6948145604372087,6.505598856512961
+[11Oct2025 01:44:06.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A6M Zero (vehicle of iuseimpact) moved too quickly! -12.180966191034457,-0.7804708224722958,6.93348303479695
+[11Oct2025 01:45:14.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 01:45:18.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:46:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact has made the advancement [Voluntary Exile]
+[11Oct2025 01:47:34.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:47:35.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:47:36.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:47:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:49:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT has completed the challenge [Hero of the Village]
+[11Oct2025 01:49:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact has completed the challenge [Hero of the Village]
+[11Oct2025 01:51:26.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT lost connection: Disconnected
+[11Oct2025 01:51:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT left the game
+[11Oct2025 01:51:26.831] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Oct2025 01:52:28.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:53:02.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 01:53:23.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 01:54:07.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 01:54:18.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-835} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:18.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-835} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:18.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-835} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-836} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-836} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-836} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=92, z=-836} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=92, z=-836} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=92, z=-837} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=92, z=-837} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-837} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:54:19.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=92, z=-837} BlockPos{x=-241, y=92, z=-835}
+[11Oct2025 01:55:22.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIAMONTCAT[/127.96.137.235:43517] logged in with entity id 154955 at (-268.5200703838047, 102.0, -860.2474655686393)
+[11Oct2025 01:55:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT joined the game
+[11Oct2025 01:58:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT was slain by Elbenjixx
+[11Oct2025 01:58:42.944] [Server thread/INFO] [gravestone/]: The death ID of player DAIAMONTCAT is 5ba21a62-a0ae-42de-929d-65f865e5264f
+[11Oct2025 01:59:34.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by iuseimpact using [El Detonador de Abuelas]
+[11Oct2025 02:00:12.254] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is c2e2fab7-9e14-4641-a57b-50b23bce4773
+[11Oct2025 02:00:12.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37961ms or 759 ticks behind
+[11Oct2025 02:00:12.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact lost connection: Disconnected
+[11Oct2025 02:00:12.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact left the game
+[11Oct2025 02:00:12.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol lost connection: Disconnected
+[11Oct2025 02:00:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol left the game
+[11Oct2025 02:00:12.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx lost connection: Disconnected
+[11Oct2025 02:00:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx left the game
+[11Oct2025 02:00:12.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagitoJuegos lost connection: Disconnected
+[11Oct2025 02:00:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos left the game
+[11Oct2025 02:00:12.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT lost connection: Disconnected
+[11Oct2025 02:00:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT left the game
+[11Oct2025 02:00:14.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIAMONTCAT[/127.96.137.235:59471] logged in with entity id 157219 at (-234.55711259100215, 90.9375, -840.7174200871805)
+[11Oct2025 02:00:14.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT joined the game
+[11Oct2025 02:00:16.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elbenjixx[/127.159.133.76:41847] logged in with entity id 157220 at (-242.29929308248492, 90.9375, -841.4930343858007)
+[11Oct2025 02:00:16.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx joined the game
+[11Oct2025 02:00:18.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iuseimpact[/127.116.1.194:33061] logged in with entity id 157393 at (-236.6302878991323, 91.43152384527073, -840.0523787576899)
+[11Oct2025 02:00:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact joined the game
+[11Oct2025 02:00:18.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gamer777_lol[/127.73.11.94:38395] logged in with entity id 157394 at (-237.51311503288326, 91.41999998688698, -842.5619416598498)
+[11Oct2025 02:00:18.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol joined the game
+[11Oct2025 02:00:40.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44ee38e0[id=<null>,name=ThiagitoJuegos,properties={},legacy=false] (/127.96.137.235:53725) lost connection: Timed out
+[11Oct2025 02:00:50.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagitoJuegos[/127.34.165.147:42953] logged in with entity id 157611 at (-235.16785173016035, 91.5531999805212, -839.0198691237104)
+[11Oct2025 02:00:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos joined the game
+[11Oct2025 02:00:52.085] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7663bd85[id=<null>,name=ThiagitoJuegos,properties={},legacy=false] (/127.96.137.235:39079): Took too long to log in
+[11Oct2025 02:00:52.087] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7663bd85[id=<null>,name=ThiagitoJuegos,properties={},legacy=false] (/127.96.137.235:39079) lost connection: Took too long to log in
+[11Oct2025 02:00:52.131] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Oct2025 02:01:30.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos was slain by iuseimpact using [El Detonador de Abuelas]
+[11Oct2025 02:01:30.100] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is f2cf4daf-c1d4-4c02-a26c-6a743e9f1264
+[11Oct2025 02:02:37.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT was slain by iuseimpact using [El Detonador de Abuelas]
+[11Oct2025 02:02:37.903] [Server thread/INFO] [gravestone/]: The death ID of player DAIAMONTCAT is 343ba033-e19f-456d-a4ea-f45103761e70
+[11Oct2025 02:07:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 02:07:47.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 02:08:12.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:10:05.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=111, z=-853} BlockPos{x=-191, y=111, z=-853}
+[11Oct2025 02:10:05.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=111, z=-853} BlockPos{x=-191, y=111, z=-853}
+[11Oct2025 02:10:59.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:13:14.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:13:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 02:13:50.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 02:14:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Creative Mode]
+[11Oct2025 02:14:18.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iuseimpact: Set own game mode to Survival Mode]
+[11Oct2025 02:16:45.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:18:16.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact moved wrongly!
+[11Oct2025 02:19:09.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:20:12.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:21:41.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamer777_lol has made the advancement [An Ear-Shattering Roar]
+[11Oct2025 02:21:51.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiansGame[/127.227.141.193:53137] logged in with entity id 175979 at (18.158706841639308, 119.0, -1219.5176165123114)
+[11Oct2025 02:21:51.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame joined the game
+[11Oct2025 02:21:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT has made the advancement [Forged in Flame]
+[11Oct2025 02:22:04.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:23:07.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[11Oct2025 02:23:31.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9132ms or 182 ticks behind
+[11Oct2025 02:25:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos fell from a high place
+[11Oct2025 02:25:23.668] [Server thread/INFO] [gravestone/]: The death ID of player ThiagitoJuegos is 9afb00eb-0f81-494a-95f5-4b611b062534
+[11Oct2025 02:26:03.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagitoJuegos lost connection: Disconnected
+[11Oct2025 02:26:03.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagitoJuegos left the game
+[11Oct2025 02:26:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> INVOCAMOS AL WITHER????????????????????????????????????????????????????????????????????????
+[11Oct2025 02:26:34.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:26:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:26:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:26:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:26:35.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:26:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:26:44.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:44.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:45.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:45.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> zz
+[11Oct2025 02:26:47.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiansGame lost connection: Disconnected
+[11Oct2025 02:26:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame left the game
+[11Oct2025 02:26:47.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> eeeeee
+[11Oct2025 02:26:48.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> zdale duerman
+[11Oct2025 02:26:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> zzzzzzzzz
+[11Oct2025 02:26:50.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:50.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:50.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:50.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:50.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:51.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:51.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iuseimpact> z
+[11Oct2025 02:26:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elbenjixx> z
+[11Oct2025 02:26:52.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> sexo
+[11Oct2025 02:26:54.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiansGame[/127.227.141.193:52571] logged in with entity id 181872 at (-203.3233914946109, 100.0, -1107.768329062174)
+[11Oct2025 02:26:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame joined the game
+[11Oct2025 02:27:53.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:27:56.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:28:25.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:28:30.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 0.2865952248220083
+[11Oct2025 02:28:30.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 0.7043742962850956
+[11Oct2025 02:29:52.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx moved wrongly!
+[11Oct2025 02:31:07.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=91, z=-849} BlockPos{x=-210, y=91, z=-850}
+[11Oct2025 02:31:07.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=91, z=-849} BlockPos{x=-210, y=91, z=-850}
+[11Oct2025 02:31:07.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=91, z=-849} BlockPos{x=-210, y=91, z=-850}
+[11Oct2025 02:32:47.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 0.2677943830020695
+[11Oct2025 02:32:47.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 0.6598643812061482
+[11Oct2025 02:32:47.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 1.0561998005520081
+[11Oct2025 02:32:47.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 1.45057898772302
+[11Oct2025 02:33:12.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 0.3558119631397858
+[11Oct2025 02:33:13.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 0.7384762106793232
+[11Oct2025 02:33:13.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 1.1236071358511026
+[11Oct2025 02:33:13.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LiansGame) moved wrongly! 1.5100579310436615
+[11Oct2025 02:33:28.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elbenjixx lost connection: Disconnected
+[11Oct2025 02:33:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elbenjixx left the game
+[11Oct2025 02:34:38.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Oct2025 02:35:40.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 02:39:03.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:39:03.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:39:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:39:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> z
+[11Oct2025 02:39:20.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiansGame lost connection: Disconnected
+[11Oct2025 02:39:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame left the game
+[11Oct2025 02:39:50.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45e6511c[id=<null>,name=LiansGame,properties={},legacy=false] (/127.227.141.193:60535) lost connection: Disconnected
+[11Oct2025 02:39:56.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiansGame[/127.227.141.193:51457] logged in with entity id 197631 at (-198.16908797426348, 155.0235412120819, -176.83005289535947)
+[11Oct2025 02:39:56.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame joined the game
+[11Oct2025 02:40:35.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:35.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:40:36.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=91, z=-160} BlockPos{x=-72, y=91, z=-161}
+[11Oct2025 02:43:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame was shot by DAIAMONTCAT
+[11Oct2025 02:43:25.131] [Server thread/INFO] [gravestone/]: The death ID of player LiansGame is b34a4028-e429-43ee-ba54-032e27610169
+[11Oct2025 02:46:04.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved wrongly! 0.3035316681154825
+[11Oct2025 02:46:04.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved wrongly! 0.9752032576633383
+[11Oct2025 02:46:04.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved wrongly! 0.6470760061815781
+[11Oct2025 02:46:04.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved wrongly! 0.34551573520440826
+[11Oct2025 02:46:04.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved wrongly! 0.9013460328273907
+[11Oct2025 02:50:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame has made the advancement [Forged in Flame]
+[11Oct2025 02:52:25.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 02:54:13.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT was turned to stone by Gorgon
+[11Oct2025 02:54:13.790] [Server thread/INFO] [gravestone/]: The death ID of player DAIAMONTCAT is 8af253d5-edb7-4513-bb9c-19c33e13d434
+[11Oct2025 02:54:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame fell from a high place
+[11Oct2025 02:54:53.505] [Server thread/INFO] [gravestone/]: The death ID of player LiansGame is 262a5329-93dc-4c81-8a5a-6eb22e04762b
+[11Oct2025 02:56:13.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iuseimpact lost connection: Disconnected
+[11Oct2025 02:56:13.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iuseimpact left the game
+[11Oct2025 02:56:34.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] puto
+[11Oct2025 02:56:39.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiansGame> culon
+[11Oct2025 02:57:21.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11Oct2025 02:58:54.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiansGame was slain by Ghost
+[11Oct2025 02:58:54.235] [Server thread/INFO] [gravestone/]: The death ID of player LiansGame is 49cee417-c609-4f06-ad26-be7eb629fbdc
+[11Oct2025 03:08:55.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Oct2025 03:10:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiansGame> 85 175 -1023
+[11Oct2025 03:10:36.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 03:10:39.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
+[11Oct2025 03:11:03.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> 595 - 910
+[11Oct2025 03:11:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gamer777_lol> 525
+[11Oct2025 03:11:17.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT was turned to stone by Gorgon
+[11Oct2025 03:11:17.288] [Server thread/INFO] [gravestone/]: The death ID of player DAIAMONTCAT is 843c0018-538a-4ce1-817a-f861b685f632
+[11Oct2025 03:12:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIAMONTCAT has made the advancement [Clash of the Titans]
+[11Oct2025 03:13:02.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -10.66542529468029,-0.46520387173697486,0.49326755989295634
+[11Oct2025 03:13:02.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -12.115548191339485,-0.35545397280694147,0.18911966214636777
+[11Oct2025 03:13:02.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -13.52107061744482,-0.19032189954118905,-0.19794399584316125
+[11Oct2025 03:13:02.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -8.617776281730357,-5.636496393952655,-0.9812941978498202
+[11Oct2025 03:13:02.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -14.874041378108814,0.03218476657916369,-0.6619809121066282
+[11Oct2025 03:13:02.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -9.491620498095017,-6.422100988857466,-0.7403089456361158
+[11Oct2025 03:13:02.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -16.16742588073987,0.31284045832840945,-1.1964177576874135
+[11Oct2025 03:13:02.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -10.360580184778428,-7.1150042415635255,-0.3978513247830051
+[11Oct2025 03:13:02.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -11.217587484773958,-7.726144910450273,0.03954617578847319
+[11Oct2025 03:13:02.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -17.39567921194532,0.6499564541254585,-1.7946166501005791
+[11Oct2025 03:13:02.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -12.056107883491222,-8.265170980408385,0.5656726534825793
+[11Oct2025 03:13:02.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -18.55468735890554,1.0403003679467844,-2.4501096525086723
+[11Oct2025 03:13:02.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -19.64159733399663,1.479765893985089,-3.156743559284223
+[11Oct2025 03:13:02.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -12.8647493034631,-8.740591974111425,1.1772120905261545
+[11Oct2025 03:13:02.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -13.630433235161718,-9.159913290557512,1.8707745821311619
+[11Oct2025 03:13:02.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -20.65476925656037,1.963342486350797,-3.9090023126323103
+[11Oct2025 03:13:02.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -21.593847748291637,2.4834487390108393,-4.702553113663271
+[11Oct2025 03:13:02.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -14.350089363987763,-9.529754691662959,2.6392151958793875
+[11Oct2025 03:13:02.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -22.459253929534725,3.031605893088212,-5.534067307995429
+[11Oct2025 03:13:02.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -15.027101833855454,-9.855954807437968,3.474262894039839
+[11Oct2025 03:13:02.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -23.25176732895318,3.599761877692032,-6.400973180093388
+[11Oct2025 03:13:02.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -15.66650259652181,-10.143663309551528,4.3680580406521585
+[11Oct2025 03:13:02.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -23.972227072778423,4.180409753813436,-7.301209479568115
+[11Oct2025 03:13:02.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -16.272729833436642,-10.39742220841569,5.313668436799162
+[11Oct2025 03:13:02.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -24.62133327169579,4.766638258734844,-8.232986526032164
+[11Oct2025 03:13:02.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -16.837509105900722,-10.733251044207208,6.262033880602303
+[11Oct2025 03:13:02.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -17.36483147418471,-11.141465564368644,7.213062270815044
+[11Oct2025 03:13:02.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.19953625234882,5.3520726649583,-9.194572804157815
+[11Oct2025 03:13:02.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -17.858215252978994,-11.613524258144338,8.166665299525903
+[11Oct2025 03:13:02.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.706996253049283,5.92958083621707,-10.184114087914622
+[11Oct2025 03:13:02.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.143593066724065,6.492555567088161,-11.19944903607393
+[11Oct2025 03:13:02.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -18.31955843756805,-12.141893513047819,9.123037844140981
+[11Oct2025 03:13:02.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -18.74991557143403,-12.719928682865998,10.082438403341712
+[11Oct2025 03:13:02.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.508991659046956,7.0349372838958715,-12.238020758893526
+[11Oct2025 03:13:02.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.802738629375767,7.551777505452577,-13.296655212317091
+[11Oct2025 03:13:02.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -19.150817213119012,-13.341769189638967,11.044919678307451
+[11Oct2025 03:13:02.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -19.51839917016332,-14.002246003606047,12.01122729917779
+[11Oct2025 03:13:02.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -19.85319990597918,-14.696800040518326,12.981264446302248
+[11Oct2025 03:13:02.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.02439467442332,8.0403802276509,-14.371469576139134
+[11Oct2025 03:13:02.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.174258018071214,8.499698094391832,-15.458293007982775
+[11Oct2025 03:13:02.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.254548157639874,8.929879789329036,-16.553235935651628
+[11Oct2025 03:13:02.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -20.156929651394194,-15.421410188068279,13.954765268974825
+[11Oct2025 03:13:02.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.26874493141372,9.331908085889765,-17.653007889287437
+[11Oct2025 03:13:02.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -20.43294948980406,-16.172529825200655,14.931342498798585
+[11Oct2025 03:13:02.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.221073354819396,9.707315859934326,-18.75503182612283
+[11Oct2025 03:13:02.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -20.684212531583626,-16.94703083214472,15.910654519246691
+[11Oct2025 03:13:02.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -27.116123656950094,10.05796980565863,-19.85743632874437
+[11Oct2025 03:13:02.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -20.912723714793287,-17.7421542072627,16.892435746674437
+[11Oct2025 03:13:02.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.95858379703475,10.385910360581306,-20.958982609907707
+[11Oct2025 03:13:02.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -21.120850892025373,-18.555466511110097,17.876412904729023
+[11Oct2025 03:13:02.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.75306033434947,10.69323627734694,-22.058961717515103
+[11Oct2025 03:13:02.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -21.310999375985148,-19.38482145009681,18.86232687359643
+[11Oct2025 03:13:02.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.503965049396925,10.98202418630747,-23.157086046466702
+[11Oct2025 03:13:02.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -21.486932984036798,-20.116312506283094,19.89456090363865
+[11Oct2025 03:13:02.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -26.215448899762123,11.254274599529666,-24.25338713632118
+[11Oct2025 03:13:02.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -21.64989239131637,-20.761487617839407,20.967670707970683
+[11Oct2025 03:13:02.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -21.800129394884948,-21.330532066232053,22.07688913191214
+[11Oct2025 03:13:02.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.8913688155194,11.511877554590725,-25.348126020170184
+[11Oct2025 03:13:02.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -21.938302647305818,-21.832429269714368,23.217986868608477
+[11Oct2025 03:13:02.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.535276163641242,11.756592614246713,-26.44171799920923
+[11Oct2025 03:13:02.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -22.064134432895912,-22.275102603185786,24.387252458399416
+[11Oct2025 03:13:02.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -25.150419651680295,11.990039170089219,-27.534672564745506
+[11Oct2025 03:13:02.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -24.739756824292044,12.213693987070386,-28.627547014600623
+[11Oct2025 03:13:02.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -22.17694220685189,-22.66554048330758,25.581400105228568
+[11Oct2025 03:13:02.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -22.27776286460937,-23.12192018056831,26.752860292105197
+[11Oct2025 03:13:02.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -24.30597093682536,12.428893476440393,-29.720910441175874
+[11Oct2025 03:13:02.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -22.36770485304976,-23.6364605605456,27.904313171328795
+[11Oct2025 03:13:02.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -23.850923439709277,12.636839316636141,-30.815030613299314
+[11Oct2025 03:13:02.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -14.730634355608458,-19.329511007854933,30.19309563624938
+[11Oct2025 03:13:02.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -14.195329483142245,13.360897559111706,-32.61869169185684
+[11Oct2025 03:13:02.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Oct2025 03:13:03.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: P-40E Warhawk (vehicle of gamer777_lol) moved too quickly! -13.696248604637162,13.557429854362184,-33.71157655585694
+[11Oct2025 03:13:03.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -14.800415830369388,-19.94059370092981,31.311344362494765
+[11Oct2025 03:13:03.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of LiansGame) moved too quickly! -14.857711369310778,-20.591582123215176,32.415792642763336
+[11Oct2025 03:13:14.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gamer777_lol moved wrongly!
+[11Oct2025 03:14:34.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -0.8767886742172095,-0.6753843108358808,11.505147224473603
+[11Oct2025 03:14:34.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -0.9995793936689097,-0.771234468937962,13.151515623420437
+[11Oct2025 03:14:34.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.1217622825267881,-0.866780608181017,14.79848764932558
+[11Oct2025 03:14:34.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.24334234962879,-0.961974023795392,16.446031843164747
+[11Oct2025 03:14:34.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.3643254608245456,-1.0567659997663554,18.09411589290721
+[11Oct2025 03:14:34.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.4847182488063595,-1.151107880152452,19.742707288985002
+[11Oct2025 03:14:34.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.6045281413189514,-1.2449510818153016,21.391773042823388
+[11Oct2025 03:14:34.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.7237634427025341,-1.3382471100759261,23.041279366920207
+[11Oct2025 03:14:34.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.089047250109843,-0.8516687905344895,14.831778703743566
+[11Oct2025 03:14:34.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.2071615628367454,-0.9437255804984375,16.482063189201654
+[11Oct2025 03:14:34.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.3247309658545419,-1.0350906758124125,18.132684376985708
+[11Oct2025 03:14:34.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.4417669189172102,-1.1257163230640828,19.78360672176268
+[11Oct2025 03:14:34.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiG-3 (vehicle of DAIAMONTCAT) moved too quickly! -1.5582815141718243,-1.215555017069292,21.43479400866636
+[11Oct2025 03:16:16.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIAMONTCAT moved wrongly!
